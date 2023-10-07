@@ -13,10 +13,10 @@ This github repository will walk you through setting up your Git and GitHub acco
 - [x] Setting up your Authentication  
 - [x] Forking a Repository  
 - [x] Cloning a Repository  
-- [ ] Making Changes to the Repository  
-- [ ] Commiting Changes Locally  
-- [ ] Moving Changes to GitHub   
-- [ ] Standard Work Flow
+- [X] Making Changes to the Repository  
+- [X] Commiting Changes Locally  
+- [X] Moving Changes to GitHub   
+- [X] Standard Work Flow
 
 ---
 
